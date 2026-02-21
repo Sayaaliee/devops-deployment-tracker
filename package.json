@@ -1,0 +1,16 @@
+{
+  "name": "devops-deployment-tracker",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+     "start": "node src/app.js",
+     "dev": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
